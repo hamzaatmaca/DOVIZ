@@ -1,0 +1,6 @@
+RewriteEngine On
+
+RewriteRule ^altin$ index.php?url=altin
+RewriteRule ^hisse$ index.php?url=hisse
+
+
